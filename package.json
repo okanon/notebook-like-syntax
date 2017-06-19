@@ -1,0 +1,19 @@
+{
+  "name": "notebook-like-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A Light UI theme based off of Candy-Light-Syntax",
+  "keywords": [
+    "notebook-like-syntax",
+    "syntax",
+    "light",
+    "note",
+    "notebook",
+    "candy"
+  ],
+  "repository": "https://github.com/okanon/notebook-like-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <5.0.0"
+  }
+}
